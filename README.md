@@ -1,16 +1,48 @@
-# to_do_application
+# ✅ Todo List App (Flutter)
 
-A new Flutter project.
+A simple and elegant Todo List application built with **Flutter** for both **Android** and **iOS**. This app uses **Hive** for local database storage and features swipe-to-delete functionality with **Flutter Slidable**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add, check, and delete tasks.
+- Swipe to delete tasks.
+- Persistent storage using **Hive**.
+- Beautiful UI with smooth animations.
+- Supports both **Android** and **iOS**.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Flutter** 💙
+- **Dart**
+- **Hive** (Local database)
+- **Flutter Slidable** (Swipe actions)
+
+---
+
+# 🏗️ Installation
+##Clone the repository
+git clone https://github.com/yourusername/todo_flutter_app.git
+
+## Navigate into the project directory
+cd todo_flutter_app
+
+## Get the dependencies
+flutter pub get
+
+## Run the app
+flutter run
+
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repo, create a new branch, and submit a pull request.
+
+🙋‍♂️ Author
+	•	Baibhab Karmakar
+	•	Email: baibhabkarmakar29@gmail.com
+	•	LinkedIn: https://www.linkedin.com/in/karmakarbaibhab/
+
+
+⭐ Don’t forget to star the repo if you like the project!
