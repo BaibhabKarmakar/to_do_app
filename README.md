@@ -35,8 +35,7 @@ flutter pub get
 ## Run the app
 flutter run
 
-🤝 Contributing
-Contributions are welcome!
+🤝 Contributions are welcome!
 Feel free to fork this repo, create a new branch, and submit a pull request.
 
 🙋‍♂️ Author
